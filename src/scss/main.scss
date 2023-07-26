@@ -1,3 +1,11 @@
 p{
     color: red;
+    &.blue{
+        font-size: 2rem;
+        color: blue;
+    }
+}
+.hw{
+    font-size: 4rem;
+    text-align: center;
 }

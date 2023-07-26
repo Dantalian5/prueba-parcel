@@ -2,4 +2,14 @@ p {
   color: red;
 }
 
+p.blue {
+  color: #00f;
+  font-size: 2rem;
+}
+
+.hw {
+  text-align: center;
+  font-size: 4rem;
+}
+
 /*# sourceMappingURL=index.b10d73a7.css.map */
